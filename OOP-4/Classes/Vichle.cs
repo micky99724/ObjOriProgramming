@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OOP_4.Classes
 {
-    internal interface Interface1
+    internal class Vichle
     {
+        public int Speed { get; set; }
     }
 }
